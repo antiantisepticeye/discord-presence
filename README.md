@@ -21,4 +21,6 @@ This app uses a discord client and their api to emulate a custom activity on you
 
 > 2. **How do i get the timestamp working? I want it to show current time when i start it.**
 * The timestamp fields take in a timestamp (number of seconds since epoch), which if you're not sure how to get, you can head over to [here](https://www.epochconverter.com). it lets you calculate timestamps. If you want the current time to show as start timestamp, use the keyword "now" instead, it automatically sets timestamp as the current time.
-  
+ 
+> 3. **How do i frickin download this application? I'm stuck on this page, and i don't see the link.**
+* First off, welcome to github! And, if you want to download the application you can head over to the realeases to download the latest version of this application. Here's a [link](https://github.com/antiantisepticeye/discord-presence/releases) for more convenience.
