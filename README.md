@@ -17,8 +17,8 @@ This app uses a discord client and their api to emulate a custom activity on you
 # FAQ
 
 > 1. **How do i get a custom image on my activity? What's this "Large/small image key"?**
-    * Well the large image key field takes in the "key" of the image that you get once you upload an image on the dashbboard, under Rich Presence > Art & Assets
+* Well the large image key field takes in the "key" of the image that you get once you upload an image on the dashbboard, under Rich Presence > Art & Assets
 
 > 2. **How do i get the timestamp working? I want it to show current time when i start it.**
-    * The timestamp fields take in a timestamp (number of seconds since epoch), which if you're not sure how to get, you can head over to [here](https://www.epochconverter.com). it lets you calculate timestamps. If you want the current time to show as start timestamp, use the keyword "now" instead, it automatically sets timestamp as the current time.
+* The timestamp fields take in a timestamp (number of seconds since epoch), which if you're not sure how to get, you can head over to [here](https://www.epochconverter.com). it lets you calculate timestamps. If you want the current time to show as start timestamp, use the keyword "now" instead, it automatically sets timestamp as the current time.
   
