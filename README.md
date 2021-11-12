@@ -1,5 +1,5 @@
 # discord-presence
-a custom discord presence app for your client
+A custom discord presence app for your client
 
 This app uses a discord client and their api to emulate a custom activity on your status.
 
